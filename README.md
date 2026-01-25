@@ -1,16 +1,49 @@
-# React + Vite
+# LIVE LINK: https://greennest-indoorplantcare.web.app/
+# GreenNest - Indoor Plant Care Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+GreenNest is an elegant single-page (SPA) web application built for plant enthusiasts who want to nurture and decorate their homes with healthy indoor plants.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Authentication**: Secure Firebase authentication with Email/Password and Google Sign-In
+- **Plant Catalog**: Browse and explore  different indoor plants with detailed information
+- **Private Routes**: Protected plant details and profile pages
+- **User Profile**: Update your display name and photo URL
+- **Consultation Booking**: Book expert consultations for plant care
+- **Responsive Design**: Mobile-friendly interface using Tailwind CSS and DaisyUI
 
-## React Compiler
+## Stack Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React 19
+- React Router 7
+- Firebase Authentication
+- Tailwind CSS 4
+- DaisyUI
+- React Hot Toast
+- Vite
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features 
+
+✅ Firebase Authentication (Email/Password & Google)  
+✅ Password validation (uppercase, lowercase, 6+ characters)  
+✅ Password toggle visibility  
+✅ Forgot Password functionality  
+✅ Protected routes for plant details and profile  
+✅ User profile update with updateProfile()  
+✅ Responsive navbar with conditional rendering  
+✅ Footer with social links  
+✅ Home page with multiple sections  
+✅ Toast notifications for user feedback  
+✅ Hosted Using Firebase
+
+
+## Use of AI
+AI (Claude Sonnet 4.5) has been used for learning purpose. 
+Used for Toast & Banner (Swiper.js) implementation. 
+
+## Courtesy
+- **Design Inspiration**: [Chrome Web Store](https://chromewebstore.google.com/)
+- **Pictures**: [Freepik](https://www.freepik.com/)
+- **Plant Data**: [Garden Design](https://www.gardendesign.com/houseplants/best-indoor.html) 
+
