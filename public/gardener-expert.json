@@ -1,25 +1,25 @@
 [
   {
-    "id": 1,
-    "name": "Shihab Uddin",
+    "id": 101,
+    "name": "Romio Bernered",
     "specialization": "Specializes in low-light plant maintenance and air-purifying varieties",
     "image": "/gardeners/1.jpg"
   },
   {
     "id": 2,
-    "name": "Emma Collins",
+    "name": "Marry Shephard",
     "specialization": "Expert in styling living spaces with sustainable plant decor",
     "image": "/gardeners/2.jpg"
   },
   {
     "id": 3,
-    "name": "Rohit Roy",
+    "name": "Alexander Joe",
     "specialization": "Focuses on drought-tolerant plants and minimalist arrangements",
     "image": "/gardeners/3.jpg"
   },
   {
     "id": 4,
-    "name": "Grace Miller",
+    "name": "Topman Hope",
     "specialization": "Guides users on organic fertilizers and seasonal feeding schedules",
     "image": "/gardeners/4.jpg" 
   }

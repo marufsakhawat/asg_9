@@ -14,18 +14,18 @@ const Footer = () => {
                             <h3 className="text-2xl font-bold">GreenNest</h3>
                         </div>
                         <p className="text-gray-600">
-                            Nurture your space with healthy indoor plants. Your trusted partner for plant care and consultation.
+                            Nurture your space with thriving indoor plants. Your trusted partner in plant care and expert consultation.
                         </p>
                     </div>
 
                     <div className="text-center">
                         <h4 className="text-xl font-semibold mb-4">Quick Links</h4>
                         <div className="flex items-center justify-center gap-3 text-gray-600">
-                            <Link to="/about" className="hover:text-green-600 transition">About</Link>
+                            <Link to="/about-us" className="hover:text-green-600 transition">About Us</Link>
                             <span>•</span>
-                            <Link to="/contact" className="hover:text-green-600 transition">Contact</Link>
+                            <Link to="/portfolio" className="hover:text-green-600 transition">Portfolio</Link>
                             <span>•</span>
-                            <Link to="/privacy" className="hover:text-green-600 transition">Privacy Policy</Link>
+                            <Link to="/location" className="hover:text-green-600 transition">Location</Link>
                         </div>
                     </div>
 
@@ -77,53 +77,7 @@ const Footer = () => {
                 </div>
 
                 <div className="border-t border-gray-300 mt-8 pt-6 text-center">
-                    <p className="text-gray-600">© 2025 GreenNest. All rights reserved.</p>
-                    <p className="text-gray-600 mt-2">
-                        This is a project of Web Development course at Programming Hero made by Ahmad Zubayer.
-                    </p>
-                    <div className="flex items-center justify-center gap-6 mt-3 text-gray-600">
-                        <a 
-                            href="https://github.com/AhmadZubayer/GreenNest--Indoor-Plant-Care-Store.git" 
-                            target="_blank" 
-                            rel="noopener noreferrer"
-                            className="flex items-center gap-2 hover:text-green-600 transition"
-                        >
-                            <FaGithub className="text-xl" />
-                            View Source Code
-                        </a>
-                        <span>|</span>
-                        <a 
-                            href="https://github.com/AhmadZubayer" 
-                            target="_blank" 
-                            rel="noopener noreferrer"
-                            className="flex items-center gap-2 hover:text-green-600 transition"
-                        >
-                            <FaGithub className="text-xl" />
-                            Follow me on GitHub
-                        </a>
-                    </div>
-                    <div className="mt-4 text-sm text-gray-500">
-                        <p>
-                            *Pictures used in the project collected from{' '}
-                            <a 
-                                href="https://www.freepik.com" 
-                                target="_blank" 
-                                rel="noopener noreferrer"
-                                className="hover:text-green-600 transition underline"
-                            >
-                                Freepik
-                            </a>
-                            {' '}and plant data from{' '}
-                            <a 
-                                href="https://www.gardendesign.com/houseplants/best-indoor.html" 
-                                target="_blank" 
-                                rel="noopener noreferrer"
-                                className="hover:text-green-600 transition underline"
-                            >
-                                Garden Design
-                            </a>
-                        </p>
-                    </div>
+                    <p className="text-gray-600">© 2026 GreenNest. All rights reserved by Maruf Sakhawat.</p>
                 </div>
             </div>
         </footer>

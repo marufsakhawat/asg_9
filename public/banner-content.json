@@ -1,44 +1,38 @@
 [
     {
         "image": "/banner-images/1.jpg",
-        "title": "Welcome to GreenNest",
-        "slogan": "Nurture Your Space with Nature's Beauty",
-        "description": "Transform your home into a green paradise"
+        "title": "Grow with GreenNest",
+        "slogan": "Where Every Space Turns Green",
+        "description": "Bring calm, freshness, and nature into your everyday living"
     },
     {
         "image": "/banner-images/2.jpg",
-        "title": "Expert Plant Care",
-        "slogan": "Growing Together, Naturally",
-        "description": "Professional guidance for healthy plants"
+        "title": "Plant Care Made Simple",
+        "slogan": "Healthy Plants, Happy Homes",
+        "description": "Easy tips and expert care to help your plants thrive"
     },
     {
         "image": "/banner-images/3.jpg",
-        "title": "Indoor Plant Collection",
-        "slogan": "Breathe Life Into Every Corner",
-        "description": "Discover our curated selection of plants"
+        "title": "Indoor Jungle Vibes",
+        "slogan": "Turn Rooms into Living Spaces",
+        "description": "Handpicked indoor plants to match your style"
     },
     {
         "image": "/banner-images/4.jpg",
-        "title": "Air Purifying Plants",
-        "slogan": "Clean Air, Healthy Living",
-        "description": "Natural solutions for better air quality"
+        "title": "Naturally Cleaner Air",
+        "slogan": "Fresh Air Starts with Plants",
+        "description": "Boost air quality with powerful, natural greenery"
     },
     {
         "image": "/banner-images/5.jpg",
-        "title": "Low Maintenance Beauties",
-        "slogan": "Easy Care, Maximum Impact",
-        "description": "Perfect plants for busy lifestyles"
+        "title": "Plants That Fit Your Life",
+        "slogan": "Low Effort, High Aesthetic",
+        "description": "Minimal care plants designed for modern living"
     },
     {
         "image": "/banner-images/6.jpg",
-        "title": "Plant Consultation",
-        "slogan": "Expert Advice at Your Fingertips",
-        "description": "Book a session with our green experts"
-    },
-    {
-        "image": "/banner-images/7.jpg",
-        "title": "Sustainable Living",
-        "slogan": "Grow Green, Live Green",
-        "description": "Join the indoor gardening revolution"
+        "title": "Talk to a Plant Pro",
+        "slogan": "Smart Advice, Greener Results",
+        "description": "Get personalized plant guidance from our experts"
     }
 ]
