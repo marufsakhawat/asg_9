@@ -1,6 +1,6 @@
 # 🌿 Green Nest
 
-**Green Nest** is a plant-focused website designed to display and showcase plants with a clean, calming, and nature-inspired interface. The project emphasizes simple plant care guidance and a visually pleasant user experience.
+**Green Nest** Indoor Plant Care & Store. is an elegant single-page web application built for plant lovers who want to nurture and decorate their homes with healthy indoor plants. The platform allows users to explore plant care guides, buy plants, and book expert consultations — ensuring a greener and healthier living space during any season.
 
 ## 🔗 Live Demo
 👉 https://asg-9.netlify.app/
