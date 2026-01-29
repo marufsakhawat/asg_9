@@ -29,7 +29,7 @@ const PlantCard = ({ plant, className = "" }) => {
                 
                 <div className="flex justify-center">
                     <Link to={`/plant/${plant.plantId}`} className="btn-primary text-sm px-8">
-                        Dive in
+                        View Details
                     </Link>
                 </div>
             </div>

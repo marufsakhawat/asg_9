@@ -6,7 +6,7 @@ const TopPlants = ({ plants }) => {
     return (
         <section className="container mx-auto px-4 py-16">
             <h2 className="text-4xl font-bold text-center text-green-700 mb-10">
-                Our Top Rated Plants
+                Top Rated Indoor Plants
             </h2>
             
             <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-4">

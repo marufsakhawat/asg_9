@@ -21,11 +21,11 @@ const Footer = () => {
                     <div className="text-center">
                         <h4 className="text-xl font-semibold mb-4">Quick Links</h4>
                         <div className="flex items-center justify-center gap-3 text-gray-600">
-                            <Link to="/about-us" className="hover:text-green-600 transition">About Us</Link>
+                            <Link to="/about-us" className="hover:text-green-600 transition">About</Link>
                             <span>•</span>
-                            <Link to="/portfolio" className="hover:text-green-600 transition">Portfolio</Link>
+                            <Link to="/portfolio" className="hover:text-green-600 transition">Contact</Link>
                             <span>•</span>
-                            <Link to="/location" className="hover:text-green-600 transition">Location</Link>
+                            <Link to="/location" className="hover:text-green-600 transition">Privacy Policy</Link>
                         </div>
                     </div>
 
@@ -77,7 +77,7 @@ const Footer = () => {
                 </div>
 
                 <div className="border-t border-gray-300 mt-8 pt-6 text-center">
-                    <p className="text-gray-600">© 2026 GreenNest. All rights reserved by Maruf Sakhawat.</p>
+                    <p className="text-gray-600">© 2025 GreenNest. All rights reserved.</p>
                 </div>
             </div>
         </footer>
